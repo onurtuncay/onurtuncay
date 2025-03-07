@@ -2,7 +2,7 @@
 
 ## 🚀 Senior Data Scientist | MSc Data Science Student & Course Representative  
 
-- 💡 **Senior Data Scientist at Allianz Turkey** with expertise in **machine learning, LLMs, AI Agents, and data analytics**.  
+- 💡 **Senior Data Scientist** with expertise in **machine learning, LLMs, AI Agents, and data analytics**.  
 - 🎓 Pursuing **MSc in Data Science** at the **University of Gloucestershire**.  
 - 🎙️ Active as a **Course Representative**, ensuring a high-quality academic experience for peers.  
 - 🔍 Passionate about **AI research, cloud computing, and real-world AI applications**.  
