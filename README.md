@@ -27,8 +27,9 @@
 ---
 
 ## 🔥 Top Repositories  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=onurtuncay&repo=Credit_Score_Classification&theme=radical)](https://github.com/onurtuncay/Credit_Score_Classification)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=onurtuncay&repo=Web-Scraping-Projects&theme=radical)](https://github.com/onurtuncay/Web-Scraping-Projects)  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=onurtuncay&repo=FinancialSentimentAnalysis&theme=radical)](https://github.com/onurtuncay/FinancialSentimentAnalysis)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=onurtuncay&repo=Credit_Score_Classification&theme=radical)](https://github.com/onurtuncay/Credit_Score_Classification)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=onurtuncay&repo=Web-Scraping-Projects&theme=radical)](https://github.com/onurtuncay/Web-Scraping-Projects)  
 
 ---
 
