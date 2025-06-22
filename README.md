@@ -22,7 +22,11 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurtuncay&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurtuncay&layout=compact&theme=radical)  
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurtuncay&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
