@@ -78,9 +78,12 @@
 
 
 ---
+## Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onurtuncay&theme=github-compact)
 
 ## 📈 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=your-onurtuncay&color=blue)  
+
 
 ## 🚀 More Stats  
 <details>  
