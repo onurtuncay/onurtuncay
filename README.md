@@ -36,6 +36,18 @@
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=onurtuncay&repo=4G-ML-Network-Analysis&theme=radical)](https://github.com/onurtuncay/4G-ML-Network-Analysis)
 
 ---
+
+## ✍️ Latest Blog Posts  
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@onrtncy)
+
+- 🧪 [My First Semester as an MSc Data Science Student in the UK](https://medium.com/@onrtncy/my-first-semester-as-an-msc-data-science-student-in-the-uk-251d5c043594)  
+  Reflections on academic and personal experiences studying Data Science in the UK — tips, challenges, and how I adapted.
+
+- 🕸️ [Web Scraping with Python – Part 1: Introduction](https://medium.com/@onrtncy/web-scraping-with-python-part-1-introduction-2f92f7895d8c)  
+  A beginner-friendly introduction to web scraping.
+
+---
+
 ## 🛠️ Languages and Tools:
 
 <p align="left">
@@ -67,6 +79,8 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
+---
+
 ## 🧠 AI/ML Platforms & Tools
 
 <p align="left">
@@ -81,8 +95,12 @@
 ## Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onurtuncay&theme=github-compact)
 
+---
+
 ## 📈 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=your-onurtuncay&color=blue)  
+
+---
 
 
 ## 🚀 More Stats  
