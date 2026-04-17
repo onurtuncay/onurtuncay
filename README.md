@@ -97,10 +97,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-onurtuncay&color=blue)  
 
 ---
-
-
 ## 🚀 More Stats  
 <details>  
   <summary>Click to expand!</summary>  
-  <img src="https://github-profile-trophy.vercel.app/?username=onurtuncay&theme=darkhub">  
-</details>  
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurtuncay&theme=github_dark" />  
+
+</details>
